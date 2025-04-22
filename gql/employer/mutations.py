@@ -192,7 +192,7 @@ mutation {
 }
 
 {
-  "Authorization" : "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJodXNzZXlAZ21haWwuY29tIiwiZXhwIjoxNzQ1MDQxMTIyfQ.NxuacbKIyxxPw3Fikr4N_h0IVXTIGegqVn8DXg5EUqs"
+  "Authorization" : "Bearer <token>"
 }
 
 Do it via postman as grapql playground don't work
